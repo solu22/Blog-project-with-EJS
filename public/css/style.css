@@ -1,0 +1,36 @@
+
+
+.navbar {
+    padding: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+   
+}
+
+
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+   
+}
+
+.footer {
+	
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	min-height: 20px;
+	background-color: #1abc9c;
+    position: absolute;
+    
+}
+
+.footer p {
+	margin-top: 50px;
+	font-size: 25px;
+    color: #fff;
+    
+}
